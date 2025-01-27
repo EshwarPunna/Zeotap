@@ -1,7 +1,6 @@
 # Zeotap
 DataScientist Intern Assignment
 
-Here’s the updated README.md with your name included:
 
 Data Science Assignment: eCommerce Transactions Dataset
 Overview:
