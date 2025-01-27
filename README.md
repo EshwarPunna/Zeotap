@@ -41,7 +41,18 @@ Clustering:
 Perform customer segmentation based on purchasing behavior.
 Apply clustering algorithms (such as K-Means) and evaluate the performance of the clustering models.
 Predictive Modeling:
-
+Methodology
+Data Preprocessing: Merging and cleaning the datasets.
+Exploratory Data Analysis (EDA): Identifying patterns and insights through visualizations and statistical analysis.
+Clustering: Using KMeans to form customer segments based on features like total spend, transaction count, and product variety.
+Evaluation: Assessing the quality of clusters using DB Index, silhouette score, and other metrics.
+Requirements
+Python 3.x
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
 Build models to predict future transactions or customer behavior.
 Files and Naming Conventions:
 EshwarRaj_Punna_EDA.pdf: A report on the EDA process and findings.
